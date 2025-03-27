@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @dariocdata
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL, Excel, Tableau and Python!
+- 👀 I’m interested in learning web development
+- 🌱 I’m currently doing The Odin Project!
 - 📫 How to reach me: dariokastillam@gmail.com
