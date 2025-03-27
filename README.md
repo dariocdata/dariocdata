@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dariocdata
+- 👋 Hi, I’m Dario
 - 👀 I’m interested in learning web development
 - 🌱 I’m currently doing The Odin Project!
 - 📫 How to reach me: dariokastillam@gmail.com
